@@ -19,6 +19,11 @@ string connStr = FCTools.ScriptContext.Project.EnvironmentVariables.Get("XMLExch
 
 
 //загрузка маппинга
+
+
+
+
+
 //string connStr2 = FCTools.ScriptContext.Project.EnvironmentVariables.Get("XMLExchange");
 //Dictionary<string, string> mapping = Ensol.Flexi.Common.Data.GetDocumentMappingServer(connStr2, "");    
 
